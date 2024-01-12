@@ -1,0 +1,40 @@
+body {background-image: url('medina baye.jpg');
+    margin-top: 10px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 50px;
+}
+
+#medinaBayeImage {
+    border-radius: 10%;
+    width: 50%;
+    height: 50%;
+    border: 2px solid peachpuff;
+    float: right;
+    padding: 30px;
+}
+
+h1 {font-family: cursive;
+text-align: center;}
+h2 {font-family: Georgia, 'Times New Roman', Times, serif;}
+.subheading {
+    font-family: 'Courier New', Courier, monospace;
+    padding: 5px;
+}
+
+.links {font-size: larger;
+margin-left: 35%;
+background-color: aliceblue;}
+#poetry-link {
+    margin-inline: 25%;
+}
+
+ul {color: green;}
+
+p {
+    font-family:fantasy;
+}
+.grid-item {
+    display: grid;
+    grid-row-start: autocd;
+}
